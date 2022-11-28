@@ -1,0 +1,29 @@
+table, th, td {
+    border: 1px solid;
+    
+}
+
+
+table{
+    margin: 50px auto;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
+
+.celda1{
+    background-color: rgb(47, 255, 116);
+}
+.celda2{
+    background-color: cyan;
+    text-align: left;
+}
+.celda6{
+    background-color: rgb(243, 112, 166);
+    text-align: right;
+    vertical-align: bottom;
+}
+
+.redtext{
+    color:red;
+}

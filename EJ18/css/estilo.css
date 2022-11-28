@@ -1,0 +1,21 @@
+#pequeño{
+    background: url("../images/f01.png") left bottom repeat-x,
+    url("../images/f02.png") left bottom no-repeat,
+    url("../images/f03.png") left top repeat-x;
+    background-color: rgb(160, 220, 243);
+    border: 2px solid blue;
+    height: 120px;
+    width: 200px;
+    padding-left: 10px;
+}
+#grande{
+    border: 4px solid red;
+    background: url("../images/f01.png") left bottom repeat-x,
+    url("../images/f02.png") left bottom no-repeat,
+    url("../images/f03.png") left top repeat-x;
+    background-color: rgb(160, 220, 243);
+    padding-left: 10px;
+    width: 32%;
+    height: 300px;
+    margin: 2%;
+}

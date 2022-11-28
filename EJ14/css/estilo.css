@@ -1,0 +1,23 @@
+body{
+    background-image: url("../images/pinguinos.jpeg");
+    background-position: center;
+    width: 450px;
+    margin: auto;
+}
+table{
+    text-align: center;
+    border: 2px solid gray;
+    border-collapse: collapse;
+    width: 110%;
+    margin-top: 70%;
+    
+}
+th{
+    background-color: rgb(236, 234, 234);
+}
+td{
+    border: 2px solid gray;
+}
+tr:nth-child(even){
+    background-color: rgb(235, 223, 118);
+}

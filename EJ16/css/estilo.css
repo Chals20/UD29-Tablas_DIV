@@ -1,0 +1,26 @@
+td {
+    border: 2px solid gray;
+}
+
+table{
+    margin: 50px auto;
+    border: 2px solid gray;
+    text-align: center;
+    width: 700px;
+    border-collapse: collapse;
+    color: rgb(156, 20, 20);
+    background-image: url('./../images/back.jpg');
+}
+
+th{
+    background-color: rgb(78, 151, 78);
+    font-weight: normal;
+}
+
+.size{
+    background-color: rgb(255, 255, 144);
+}
+
+.head{
+    background-color:rgb(224, 156, 110);
+}
